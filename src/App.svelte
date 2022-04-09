@@ -4,6 +4,10 @@
 	let search: string;
 	let res = new Array<string>();
 	function s(search: string): Array<string> {
+		const exact = data.get(search);
+		if (exact) {
+			return new Array<string>(search);
+		}
 		const res = new Array<string>();
 		let search2 = search;
 		a: while (search2.length > 0) {

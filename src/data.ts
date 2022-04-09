@@ -5,7 +5,7 @@ data.set('ng', 'in general');
 data.set('jpq', 'I think (that)');
 data.set('it', 'I think');
 data.set('ca', 'this');
-data.set('b', 'be');
+data.set('cap', 'this');
 data.set('ff', 'Firefox');
 data.set('sch', 'school');
 data.set('y', 'why');
