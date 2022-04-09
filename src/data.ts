@@ -20,5 +20,9 @@ data.set('its', 'I think so');
 data.set('idts', 'I don\'t think so');
 data.set('gud', 'good');
 data.set('pre', 'pretty');
+data.set('lp', 'low-priority');
+data.set('nrl', 'not related');
+data.set('its\'d', 'I thought so');
+data.set('rq', 'require');
 
 export default data;
