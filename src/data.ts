@@ -1,0 +1,24 @@
+const data = new Map<string, string>();
+data.set('jic', 'just in case');
+data.set('ig', 'I guess');
+data.set('ng', 'in general');
+data.set('jpq', 'I think (that)');
+data.set('it', 'I think');
+data.set('ca', 'this');
+data.set('b', 'be');
+data.set('ff', 'Firefox');
+data.set('sch', 'school');
+data.set('y', 'why');
+data.set('mpls', 'Metropolis');
+data.set('smw', 'somewhere');
+data.set('tmp', 'temporary');
+data.set('temp', 'temperature');
+data.set('vol', 'volume');
+data.set('sth', 'something');
+data.set('pasta', 'copy-paste');
+data.set('its', 'I think so');
+data.set('idts', 'I don\'t think so');
+data.set('gud', 'good');
+data.set('pre', 'pretty');
+
+export default data;
