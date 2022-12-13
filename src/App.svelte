@@ -48,6 +48,12 @@
 	{:else}
 		<p>No result</p>
 	{/if}
+	<h2>Legend</h2>
+	<ul>
+		{#each [...m] as [key, value]}
+		<li>{key} → {value}</li>
+		{/each}
+	</ul>
 </main>
 <p style="display: none;">yes I know it sucks; that's a TODO</p>
 
