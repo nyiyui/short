@@ -1,7 +1,7 @@
 const data = new Map<string, string>();
 data.set('jic', 'just in case');
 data.set('ig', 'I guess');
-data.set('ng', 'in general');
+data.set('tj', 'normally (通常)');
 data.set('it', 'I think');
 data.set('ckule', 'school');
 data.set('tmp', 'temporary');
