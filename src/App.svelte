@@ -50,7 +50,7 @@
 	{/if}
 	<h2>Legend</h2>
 	<ul>
-		{#each [...m] as [key, value]}
+		{#each [...data] as [key, value]}
 		<li>{key} → {value}</li>
 		{/each}
 	</ul>
